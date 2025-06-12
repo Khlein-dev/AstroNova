@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Oswald:wght@200..700&display=swap');
+
+body {
+
+    background-image: url(images/horo.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.container {
+    position: relative;
+    width: 400px;
+    height: 600px;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, #1b161b, #050303);
+    color: antiquewhite;
+    font-size: 35px;
+    font-family: Oswald;
+    padding: 10px;
+    text-align: justify;
+    transition: 1000ms;
+    border: 4px solid #BB000E;
+
+}
+
+
+
+h1 {
+    text-align: left;
+    background: linear-gradient(to bottom, #BB000E, #BB000E, #46050a, #110203);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.container:hover {
+    margin-top: 5px;
+    background: linear-gradient(to bottom, rgb(31, 24, 24), rgb(0, 0, 0));
+
+}
+
+form {
+    position: relative;
+    width: 350px;
+    height: 340px;
+    border-radius: 15px;
+    background: linear-gradient(to bottom, rgb(34, 33, 33), rgb(7, 7, 7));
+    color: black;
+    padding: 20px;
+    margin: 5px;
+    text-align: center;
+}
+
+input {
+    width: 200px;
+    height: 30px;
+    background: #1b1a1a;
+    border-radius: 10px;
+    color: antiquewhite;
+    padding: 5px;
+
+}
+
+select {
+    width: 200px;
+    height: 30px;
+    background: #1b1a1a;
+    border-radius: 10px;
+    color: antiquewhite;
+    padding: 5px;
+
+}
+
+.sub {
+    background-color: #060506;
+    color: antiquewhite;
+    border: 1px solid #BB000E;
+    border-left: 3px solid #46050a;
+    border-bottom: 3px solid #46050a;
+    font-weight: bold;
+    transition: 1000ms;
+
+
+
+}
+
+.sub:hover {
+    background: linear-gradient(to right, #BB000E, #BB000E, #46050a, #110203);
+    color: antiquewhite;
+    border: 0;
+    margin-top: 5px;
+
+
+}
+
+/* The result */
+
+img {
+    background-size: cover;
+    width: 230px;
+    max-width: 400px;
+
+    
+
+    border-radius: 15px;
+
+}
+
+button {
+
+
+    width: 100px;
+    color: antiquewhite;
+    background-color: #060506;
+    border-radius: 15px;
+    border: 1px solid #BB000E;
+    border-left: 3px solid #46050a;
+    border-bottom: 3px solid #46050a;
+    font-weight: bold;
+    transition: 1000ms;
+    font-size: 20px;
+    font-weight: lighter;
+    
+    
+}
+
+button:hover {
+    background: linear-gradient(to bottom, #BB000E, #BB000E, #46050a, #110203);
+    color: antiquewhite;
+    border: 0;
+    margin-top: 5px;
+    transition: 1000ms ease-out;
+
+}
+
+a {
+    text-decoration: none;
+    color: antiquewhite;
+}
