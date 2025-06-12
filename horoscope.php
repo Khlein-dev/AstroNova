@@ -46,7 +46,7 @@
                 <select name="month" required>
 
 
-                    <option value="" disabled selected>Select Month</option>
+                    <option value="" disabled selected>Select Birth Month</option>
 
                     <?php
                     $m = ["January","February","March","April","May", "June","July","August","September","October","November","December"];
@@ -60,7 +60,7 @@
 
                 <select name="day" required>
 
-                    <option value="" disabled selected>Select Day </option>
+                    <option value="" disabled selected>Select Birth Day </option>
 
 
                     <?php
