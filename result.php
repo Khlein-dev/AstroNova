@@ -11,6 +11,8 @@
 
 <body>
 
+    <br>
+
     <center>
         <div class="container">
             <?php
@@ -26,7 +28,10 @@
                     print " is a Capricorn";
 
 
+
+
             ?>
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in January <?php print $_GET['day']; ?></p>
 
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
@@ -40,6 +45,12 @@
                         Known for being hardworking, practical, and responsible,
                         Capricorns value structure, stability, and long-term goals.
                         They are loyal, disciplined, and often seen as wise and dependable.
+
+                        <br><br>
+
+                        Capricorn is most compatible with Taurus, Virgo, and Scorpio.
+                        These signs support Capricorn’s drive, goals, and structured mindset.
+                        They value commitment and bring either stability or emotional strength.
                     </p>
 
                 <?php
@@ -55,6 +66,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in January <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -67,6 +80,12 @@
                         Known for being independent, innovative, and open-minded,
                         Aquarians value freedom, ideas, and individuality.
                         They are friendly, forward-thinking, and often seen as unique and visionary.
+
+                        <br><br>
+
+                        Aquarius is most compatible with Gemini, Libra, and Sagittarius.
+                        These signs connect with Aquarius’ uniqueness and forward-thinking views.
+                        They enjoy mental stimulation and personal freedom.
                     </p>
 
                 <?php
@@ -82,6 +101,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in February <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -93,7 +114,13 @@
                         <br><br>
                         Known for being independent, innovative, and open-minded,
                         Aquarians value freedom, ideas, and individuality.
-                        They are friendly, forward-thinking, and often seen as unique and visionary..
+                        They are friendly, forward-thinking, and often seen as unique and visionary.
+
+                        <br><br>
+
+                        Aquarius is most compatible with Gemini, Libra, and Sagittarius.
+                        These signs connect with Aquarius’ uniqueness and forward-thinking views.
+                        They enjoy mental stimulation and personal freedom.
                     </p>
 
                 <?php
@@ -105,6 +132,8 @@
                     print " is a Pisces ";
 
                 ?>
+
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in February <?php print $_GET['day']; ?></p>
 
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
@@ -119,6 +148,12 @@
                         <br><br>
                         They are sensitive, imaginative, and often drawn to art and spirituality.
                         dependable and wise beyond their years.
+
+                        <br><br>
+
+                        Pisces is most compatible with Cancer, Scorpio, and Taurus.
+                        These signs understand Pisces’ emotional world and creativity.
+                        They offer grounding or emotional support to balance Pisces’ sensitivity.
                     </p>
 
                 <?php
@@ -134,6 +169,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in March <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -147,6 +184,12 @@
                         <br><br>
                         They are sensitive, imaginative, and often drawn to art and spirituality.
                         dependable and wise beyond their years.
+
+                        <br><br>
+
+                        Pisces is most compatible with Cancer, Scorpio, and Taurus.
+                        These signs understand Pisces’ emotional world and creativity.
+                        They offer grounding or emotional support to balance Pisces’ sensitivity.
                     </p>
 
                 <?php
@@ -160,6 +203,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in March <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -171,6 +216,12 @@
                         <br><br>
                         Energetic, bold, and confident, Aries love taking the lead and facing challenges head-on.
                         They are passionate, competitive, and often seen as fearless and determined.
+
+                        <br><br>
+
+                        Aries is most compatible with Leo, Sagittarius, and Gemini.
+                        These signs match Aries’ energy, passion, and love for excitement.
+                        They understand Aries’ boldness and keep up with their fast-paced lifestyle.
                     </p>
 
                 <?php
@@ -186,6 +237,9 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in April <?php print $_GET['day']; ?></p>
+
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -197,6 +251,12 @@
                         <br><br>
                         Energetic, bold, and confident, Aries love taking the lead and facing challenges head-on.
                         They are passionate, competitive, and often seen as fearless and determined.
+
+                        <br><br>
+
+                        Aries is most compatible with Leo, Sagittarius, and Gemini.
+                        These signs match Aries’ energy, passion, and love for excitement.
+                        They understand Aries’ boldness and keep up with their fast-paced lifestyle.
                     </p>
                     </p>
 
@@ -211,6 +271,9 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in April <?php print $_GET['day']; ?></p>
+
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -222,6 +285,12 @@
                         <br><br>
                         Known for being patient, dependable, and grounded, Taureans enjoy comfort, beauty, and routine.
                         They are loyal, strong-willed, and value stability in all areas of life.
+
+                        <br><br>
+
+                        Taurus is most compatible with Virgo, Capricorn, and Cancer.
+                        These signs appreciate Taurus' need for stability and loyalty.
+                        They offer emotional depth or grounded support, which Taurus values deeply.
                     </p>
 
                 <?php
@@ -237,6 +306,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in May <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -248,6 +319,12 @@
                         <br><br>
                         Known for being patient, dependable, and grounded, Taureans enjoy comfort, beauty, and routine.
                         They are loyal, strong-willed, and value stability in all areas of life.
+
+                        <br><br>
+
+                        Taurus is most compatible with Virgo, Capricorn, and Cancer.
+                        These signs appreciate Taurus' need for stability and loyalty.
+                        They offer emotional depth or grounded support, which Taurus values deeply.
                     </p>
 
                 <?php
@@ -261,6 +338,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in May <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -272,6 +351,12 @@
                         <br><br>
                         Curious, witty, and social, Geminis thrive on communication, learning, and variety.
                         They are adaptable, expressive, and known for their lively and playful nature.
+
+                        <br><br>
+
+                        Gemini is most compatible with Libra, Aquarius, and Aries.
+                        These signs enjoy Gemini’s lively mind and love for conversation.
+                        They bring the same curiosity and open-minded energy.
                     </p>
 
                 <?php
@@ -287,6 +372,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in June <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -298,6 +385,12 @@
                         <br><br>
                         Curious, witty, and social, Geminis thrive on communication, learning, and variety.
                         They are adaptable, expressive, and known for their lively and playful nature.
+
+                        <br><br>
+
+                        Gemini is most compatible with Libra, Aquarius, and Aries.
+                        These signs enjoy Gemini’s lively mind and love for conversation.
+                        They bring the same curiosity and open-minded energy.
                     </p>
 
                 <?php
@@ -311,6 +404,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in June <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -323,6 +418,12 @@
                         Emotional, caring, and deeply intuitive, Cancers value home,
                         family, and close connections.
                         They are protective, loyal, and known for their strong empathy and sensitivity.
+
+                        <br><br>
+
+                        Cancer is most compatible with Taurus, Virgo, and Pisces.
+                        These signs provide emotional security and support.
+                        They connect well with Cancer’s nurturing and sensitive nature.
                     </p>
 
                 <?php
@@ -338,6 +439,9 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in July <?php print $_GET['day']; ?></p>
+
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -350,6 +454,12 @@
                         Emotional, caring, and deeply intuitive, Cancers value home,
                         family, and close connections.
                         They are protective, loyal, and known for their strong empathy and sensitivity.
+
+                        <br><br>
+
+                        Cancer is most compatible with Taurus, Virgo, and Pisces.
+                        These signs provide emotional security and support.
+                        They connect well with Cancer’s nurturing and sensitive nature.
                     </p>
 
                 <?php
@@ -363,6 +473,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in July <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -374,6 +486,12 @@
                         <br><br>
                         Confident, charismatic, and passionate, Leos love to shine and be appreciated for who they are.
                         They are generous, loyal, and driven by creativity and recognition.
+
+                        <br><br>
+
+                        Leo is most compatible with Aries, Sagittarius, and Libra.
+                        These signs share Leo’s enthusiasm, passion, and sense of adventure.
+                        They admire Leo’s confidence and bring warmth in return.
                     </p>
 
                 <?php
@@ -389,6 +507,9 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in August <?php print $_GET['day']; ?></p>
+
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -400,6 +521,12 @@
                         <br><br>
                         Confident, charismatic, and passionate, Leos love to shine and be appreciated for who they are.
                         They are generous, loyal, and driven by creativity and recognition.
+
+                        <br><br>
+
+                        Leo is most compatible with Aries, Sagittarius, and Libra.
+                        These signs share Leo’s enthusiasm, passion, and sense of adventure.
+                        They admire Leo’s confidence and bring warmth in return.
                     </p>
 
                 <?php
@@ -413,6 +540,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in August <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -425,6 +554,12 @@
                         Practical, detail-oriented, and intelligent,
                         Virgos are known for their strong work ethic and need for order.
                         They are helpful, observant, and value precision and purpose.
+
+                        <br><br>
+
+                        Virgo is most compatible with Taurus, Capricorn, and Scorpio.
+                        These signs match Virgo’s practicality and desire for meaningful connection.
+                        They respect Virgo’s attention to detail and steady approach to life.
                     </p>
 
                 <?php
@@ -440,6 +575,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in September <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -452,6 +589,13 @@
                         Practical, detail-oriented, and intelligent,
                         Virgos are known for their strong work ethic and need for order.
                         They are helpful, observant, and value precision and purpose.
+
+                        <br><br>
+
+                        Virgo is most compatible with Taurus, Capricorn, and Scorpio.
+                        These signs match Virgo’s practicality and desire for meaningful connection.
+                        They respect Virgo’s attention to detail and steady approach to life.
+
                     </p>
 
                 <?php
@@ -464,6 +608,9 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in September <?php print $_GET['day']; ?></p>
+
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -475,6 +622,12 @@
                         <br><br>
                         Diplomatic, charming, and fair-minded, Libras seek balance in relationships and life.
                         They value harmony, beauty, and are known for their strong sense of justice.
+
+                        <br><br>
+
+                        Libra is most compatible with Gemini, Aquarius, and Leo.
+                        These signs enjoy Libra’s charm and need for balance.
+                        They bring harmony, creativity, and stimulating conversation.
                     </p>
 
                 <?php
@@ -490,6 +643,9 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in October <?php print $_GET['day']; ?></p>
+
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -501,6 +657,12 @@
                         <br><br>
                         Diplomatic, charming, and fair-minded, Libras seek balance in relationships and life.
                         They value harmony, beauty, and are known for their strong sense of justice.
+
+                        <br><br>
+
+                        Libra is most compatible with Gemini, Aquarius, and Leo.
+                        These signs enjoy Libra’s charm and need for balance.
+                        They bring harmony, creativity, and stimulating conversation.
                     </p>
 
                 <?php
@@ -514,6 +676,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in October <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -526,6 +690,12 @@
                         Intense, passionate, and deeply emotional,
                         Scorpios are known for their loyalty and mysterious aura.
                         They are driven, resourceful, and often seek truth and transformation.
+
+                        <br><br>
+
+                        Scorpio is most compatible with Cancer, Pisces, and Virgo.
+                        These signs connect with Scorpio’s emotional depth and loyalty.
+                        They value trust and intimacy in the same way Scorpio does.
                     </p>
 
                 <?php
@@ -541,6 +711,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in November <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -553,6 +725,12 @@
                         Intense, passionate, and deeply emotional,
                         Scorpios are known for their loyalty and mysterious aura.
                         They are driven, resourceful, and often seek truth and transformation.
+
+                        <br><br>
+
+                        Scorpio is most compatible with Cancer, Pisces, and Virgo.
+                        These signs connect with Scorpio’s emotional depth and loyalty.
+                        They value trust and intimacy in the same way Scorpio does.
                     </p>
 
                 <?php
@@ -565,6 +743,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in November <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -576,6 +756,12 @@
                         <br><br>
                         Adventurous, optimistic, and curious, Sagittarians love exploring new ideas,
                         places, and experiences. They value freedom, honesty, and have a strong sense of purpose.
+
+                        <br><br>
+
+                        Sagittarius is most compatible with Aries, Leo, and Aquarius.
+                        These signs share Sagittarius’ love for freedom, exploration, and big ideas.
+                        They are open-minded and enjoy life’s adventures.
                     </p>
 
                 <?php
@@ -591,6 +777,8 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in December <?php print $_GET['day']; ?></p>
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -602,6 +790,12 @@
                         <br><br>
                         Adventurous, optimistic, and curious, Sagittarians love exploring new ideas,
                         places, and experiences. They value freedom, honesty, and have a strong sense of purpose.
+
+                        <br><br>
+
+                        Sagittarius is most compatible with Aries, Leo, and Aquarius.
+                        These signs share Sagittarius’ love for freedom, exploration, and big ideas.
+                        They are open-minded and enjoy life’s adventures.
                     </p>
 
                 <?php
@@ -615,6 +809,9 @@
 
                 ?>
 
+                    <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in December <?php print $_GET['day']; ?></p>
+
+
 
                     <hr style="height: 3px; border: none; background: linear-gradient(to right, #ffffff, #959595);">
 
@@ -627,6 +824,12 @@
                         Known for being hardworking, practical, and responsible,
                         Capricorns value structure, stability, and long-term goals.
                         They are loyal, disciplined, and often seen as wise and dependable.
+
+                        <br><br>
+
+                        Capricorn is most compatible with Taurus, Virgo, and Scorpio.
+                        These signs support Capricorn’s drive, goals, and structured mindset.
+                        They value commitment and bring either stability or emotional strength.
                     </p>
 
 
