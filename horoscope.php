@@ -4,15 +4,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HOROSCOPE</title>
+    <title>ASTRONOVA</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
 </head>
 
 <body>
 
-    <br>
-
     <center>
+        <img src="images/logo.png" alt="logo" style="width: 120px; height: 120px;transform: translateY(-10px);">
         <div class="container">
             <h1 style="margin-top: -10px;">HOROSCOPE</h1>
 
@@ -32,15 +32,9 @@
             <form action="result.php" method="get">
 
 
-
-
                 <div>
                     <input type="text" name="sname" placeholder="Enter Name" required>
                 </div>
-
-
-
-
 
 
                 <select name="month" required>
@@ -49,7 +43,7 @@
                     <option value="" disabled selected>Select Birth Month</option>
 
                     <?php
-                    $m = ["January","February","March","April","May", "June","July","August","September","October","November","December"];
+                    $m = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
 
                     foreach ($m as $i => $month) {
                         print "<option value='" . ($i + 1) . "'>$month</option>";
@@ -73,10 +67,6 @@
                 </select>
 
 
-
-
-
-
                 <input type="submit" class="sub" value="HOROSCOPE" name="submit">
 
 
@@ -84,16 +74,7 @@
 
         </div>
 
-
-
-
-
-
         </form>
-
-
-
-
 
         </div>
     </center>

@@ -4,16 +4,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Result of your Horoscope</title>
+    <title>Result of your ASTRONOVA</title>
     <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/x-icon" href="images/logo.png">
 
 </head>
 
 <body>
-
-    <br>
-
     <center>
+
+        <img src="images/logo.png" alt="logo" style="width: 120px; height: 120px;transform: translateY(-10px);">
+
         <div class="container">
             <?php
 
@@ -26,9 +27,6 @@
 
                     print $_GET['sname'];
                     print " is a Capricorn";
-
-
-
 
             ?>
                     <p style="font-size: 18px; font-weight:lighter; margin-top:-5px;">Born in January <?php print $_GET['day']; ?></p>
@@ -55,8 +53,6 @@
 
                 <?php
                 }
-
-
 
 
                 if ($d >= 20) {
@@ -832,22 +828,9 @@
                         They value commitment and bring either stability or emotional strength.
                     </p>
 
-
-
-
-
-
             <?php
                 }
             }
-
-
-
-
-
-
-
-
 
             ?>
 
@@ -857,10 +840,6 @@
 
         </div>
     </center>
-
-
-
-
 
 </body>
 
