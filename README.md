@@ -11,5 +11,7 @@ AstroNova is a modern, responsive, and creative PHP-based website that allows us
 - **Compatibility Checker** – Explore how well your sign matches with others. 
 - **Responsive Layout** – Optimized for desktops, tablets, and mobile devices.
 
-![Screenshot](images/indexpage.png)
-![Screenshot](images/resultpage.png)
+<p align="center">
+  <img src="images/indexpage.png" alt="Logo" width="600">
+  <img src="images/resultpage.png" alt="Logo" width="600">
+</p>
